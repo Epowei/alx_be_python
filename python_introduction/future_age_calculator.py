@@ -1,6 +1,6 @@
 # Script to calculate future age of a person
 
-current_age = input("How old are you?: ") # Get the current age of the person
+current_age = input("How old are you?") # Get the current age of the person
 
 future_age = int(current_age) + 27 # Calculate the future age of the in 2050
 
