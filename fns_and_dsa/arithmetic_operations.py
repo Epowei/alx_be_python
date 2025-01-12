@@ -1,4 +1,4 @@
-def perform_operation(num1: float, num2: float, operation: str) -> float | str:
+def perform_operation(num1,  num2, operation):
     """
     Perform a specified arithmetic operation on two numbers.
 
